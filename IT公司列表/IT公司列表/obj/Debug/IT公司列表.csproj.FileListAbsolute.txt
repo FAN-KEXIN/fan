@@ -1,0 +1,10 @@
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\bin\Debug\IT公司列表.exe.config
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\bin\Debug\IT公司列表.exe
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\bin\Debug\IT公司列表.pdb
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\obj\Debug\IT公司列表.csprojResolveAssemblyReference.cache
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\obj\Debug\IT公司列表.Form1.resources
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\obj\Debug\IT公司列表.Properties.Resources.resources
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\obj\Debug\IT公司列表.csproj.GenerateResource.Cache
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\obj\Debug\IT公司列表.exe
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\obj\Debug\IT公司列表.pdb
+c:\users\90930\documents\visual studio 2012\Projects\IT公司列表\IT公司列表\obj\Debug\IT公司列表.Form2.resources
